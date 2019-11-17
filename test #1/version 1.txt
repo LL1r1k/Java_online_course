@@ -1,3 +1,4 @@
+Deleted line from git web
 2 line
 1 line
 Added line in web git
