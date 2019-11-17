@@ -1,2 +1,2 @@
-1 line
+Deleted line from git web
 2 line
